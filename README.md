@@ -17,4 +17,4 @@ Este proyecto implementa un micro sistema operativo mínimo en ensamblador, capa
 Desde la carpeta del proyecto ejecutar:
 
 ```powershell
-& "C:\Vs code\qemu\nasm\nasm-3.01\nasm.exe" -f bin boot.asm -o boot.bin
+& "C:\Program Files\qemu\qemu-system-i386.exe" -drive format=raw,file=boot.bin
