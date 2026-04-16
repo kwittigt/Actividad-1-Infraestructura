@@ -11,8 +11,7 @@ Este proyecto implementa un micro sistema operativo mínimo en ensamblador, capa
 ## Archivos del proyecto
 - `boot.asm`: código fuente en ensamblador
 - `boot.bin`: binario compilado para arranque
-- `evidencias/qemu_funcionando.png`: captura de ejecución correcta
-
+  
 ## Compilación
 Desde la carpeta del proyecto ejecutar:
 
